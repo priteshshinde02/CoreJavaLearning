@@ -1,4 +1,4 @@
-package dec_23_23;
+package src.basic_06_24DEC23;
 
 import java.util.Scanner;
 
