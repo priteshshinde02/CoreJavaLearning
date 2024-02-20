@@ -1,4 +1,4 @@
-package oops_07_jan_2024.inheritance;
+package src.oops_07th_jan_2024.inheritance;
 
 public class lab_146 {
     public static void main(String[] args) {

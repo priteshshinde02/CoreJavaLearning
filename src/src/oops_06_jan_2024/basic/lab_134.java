@@ -1,4 +1,4 @@
-package oops_06_Jan_2024;
+package src.oops_06_jan_2024.basic;
 
 public class lab_134 {
     public static void main(String[] args) {

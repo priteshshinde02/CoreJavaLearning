@@ -1,4 +1,4 @@
-package oops_07_jan_2024.inheritance.multilevel;
+package src.oops_07th_jan_2024.inheritance.multilevel;
 
 public class lab_148 {
     public static void main(String[] args) {

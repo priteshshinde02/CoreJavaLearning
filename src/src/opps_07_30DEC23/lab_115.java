@@ -1,4 +1,4 @@
-package dec_30_23;
+package src.opps_07_30DEC23;
 
 public class lab_115 {
     public static void main(String[] args) {
